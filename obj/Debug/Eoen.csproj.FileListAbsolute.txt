@@ -1,0 +1,13 @@
+C:\Users\Dave\documents\visual studio 2013\Projects\Eoen\Eoen\bin\Debug\Eoen.exe.config
+C:\Users\Dave\documents\visual studio 2013\Projects\Eoen\Eoen\bin\Debug\Eoen.exe.manifest
+C:\Users\Dave\documents\visual studio 2013\Projects\Eoen\Eoen\bin\Debug\Eoen.application
+C:\Users\Dave\documents\visual studio 2013\Projects\Eoen\Eoen\bin\Debug\Eoen.exe
+C:\Users\Dave\documents\visual studio 2013\Projects\Eoen\Eoen\bin\Debug\Eoen.pdb
+C:\Users\Dave\documents\visual studio 2013\Projects\Eoen\Eoen\obj\Debug\Eoen.Form1.resources
+C:\Users\Dave\documents\visual studio 2013\Projects\Eoen\Eoen\obj\Debug\Eoen.Properties.Resources.resources
+C:\Users\Dave\documents\visual studio 2013\Projects\Eoen\Eoen\obj\Debug\Eoen.csproj.GenerateResource.Cache
+C:\Users\Dave\documents\visual studio 2013\Projects\Eoen\Eoen\obj\Debug\Eoen.exe.manifest
+C:\Users\Dave\documents\visual studio 2013\Projects\Eoen\Eoen\obj\Debug\Eoen.application
+C:\Users\Dave\documents\visual studio 2013\Projects\Eoen\Eoen\obj\Debug\Eoen.exe
+C:\Users\Dave\documents\visual studio 2013\Projects\Eoen\Eoen\obj\Debug\Eoen.pdb
+C:\Users\Dave\documents\visual studio 2013\Projects\Eoen\Eoen\obj\Debug\Eoen.csprojResolveAssemblyReference.cache
